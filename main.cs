@@ -6,7 +6,7 @@ class Program
 
     static void Main()
     {
-        double inches = 10;
+        double inches = 5;
         Console.WriteLine($"{inches} inches is {inches * CM_PER_INCH} centimeters.");
     }
 }
